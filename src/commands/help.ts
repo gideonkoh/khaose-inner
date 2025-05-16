@@ -3,17 +3,8 @@ const helpObj = {
     ["'outest'",
       "Return to the outest layer."
     ],
-    [
-      "'lyrics'",
-      "Check out the lyrics of each song in the very first EP written by Khaosé."
-    ],
-    [
-      "'blog'",
-      "Read parts of Khaosé journey - if you're interested that is."
-    ],
-    [
-      "'photos'",
-      "If you want to see Khaosé being awkward..."
+    ["'outer'",
+      "Return to the outer layer."
     ],
     ["'banner'",
       "Display the banner again."

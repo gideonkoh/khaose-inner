@@ -36,26 +36,26 @@
   "hostname": "khaose.com",
 
   "colors": {
-    "background": "#0C0623",
-    "foreground": "#F8DDE5",
-    "banner": "#FF9951",
+    "background": "#000000",
+    "foreground": "#FFFFFF",
+    "banner": "#FFFFFF",
     "border": {
       "visible": true,
-      "color": "#FFADE2"
+      "color": "#FFFFFF"
     },
     "prompt": {
       "default": "#A5A7A7",
-      "user": "#FE6BC9",
+      "user": "#FFFFFF",
       "host": "#70FDFF",
-      "input": "#FF7685"
+      "input": "#FFFFFF"
     },
     "link": {
-      "text": "#B6AAEE",
+      "text": "#FFFF0F",
       "highlightColor": "#FFADE2",
       "highlightText": "#0C0623"
     },
     "commands": {
-      "textColor": "#FD9BDB"
+      "textColor": "#FFFFFF"
     }
   }
 }

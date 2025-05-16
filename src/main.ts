@@ -390,6 +390,12 @@ function commandHandler(input : string) {
        window.open("https://khaose.com/", '_blank');
       }, 500);
       break;
+    case 'outer':
+      writeLines(["Returning to the outer layer - backend.khaose.com...", "<br>"]);
+      setTimeout(() => {
+       window.open("https://backend.khaose.com/", '_blank');
+      }, 500);
+      break;
     case 'photos':
       writeLines(["Opening up khaose.com/photos... although I don't get why you want to view such awkward photos..", "<br>"]);
       setTimeout(() => {

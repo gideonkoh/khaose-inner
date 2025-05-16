@@ -17,10 +17,10 @@ const createBanner = () : string[] => {
     banner.push(eleToPush);
   });  
   banner.push("<br>");
-  banner.push("backend.khaose.com")
+  banner.push("innerbackend-rmhvxfirgb.com")
   banner.push("v36.0.0");
   banner.push("<br>")
-  banner.push("Welcome. You're currently at the outer layer.");
+  banner.push("Welcome. You're currently at the inner layer.");
   banner.push("<br>")
   banner.push("Type <span class='command'>'help'</span> to see a list of all available commands.");
   banner.push("<br>");
