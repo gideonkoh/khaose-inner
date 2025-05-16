@@ -6,6 +6,9 @@ const helpObj = {
     ["'outer'",
       "Return to the outer layer."
     ],
+    ["'letter'",
+      "Display the letters that are about to be sent out soon."
+    ],    
     ["'banner'",
       "Display the banner again."
     ],

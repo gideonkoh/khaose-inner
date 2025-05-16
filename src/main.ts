@@ -148,7 +148,7 @@ function commandHandler(input : string) {
       writeLines(["4/10:"]);
       writeLines(["5/10:"]);
       writeLines(["6/10:"]);
-      writeLines(["7/10:", "<br>"]);
+      writeLines(["7/10:"]);
       writeLines(["Embrace the letters and know yourself.", "<br>"]);
     break;
 
