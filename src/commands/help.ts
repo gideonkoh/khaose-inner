@@ -32,7 +32,7 @@ const createHelp = () : string[] => {
   })
 
   help.push("<br>");
-  help.push("You may find more commands highlighted by the system when you visit the various pages at the outest layer.");
+  help.push("All the commands that you've gathered from the outer layer can still work here");
   help.push("<br>");
   help.push("Press <span class='keys'>[Tab]</span> for auto completion.");
   help.push("Press <span class='keys'>[Esc]</span> to clear the input line.");
