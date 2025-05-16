@@ -141,7 +141,15 @@ function commandHandler(input : string) {
     break;
 
     case 'letter':
-      writeLines(["The letters are here in this layer. Find them, and you will receive them.", "<br>"]);
+      writeLines(["The letters are here:"]);
+      writeLines(["1/10:"]);
+      writeLines(["2/10:"]);
+      writeLines(["3/10:"]);
+      writeLines(["4/10:"]);
+      writeLines(["5/10:"]);
+      writeLines(["6/10:"]);
+      writeLines(["7/10:", "<br>"]);
+      writeLines(["Embrace the letters and know yourself.", "<br>"]);
     break;
 
     case 'dictionary':
@@ -323,7 +331,25 @@ function commandHandler(input : string) {
     break;
 
     case 'letterfromthefuture':
-      writeLines(["You’re not ready for this one yet.", "<br>"]);
+      writeLines(["Form a command with these elements without spaces:", "<br>"]);
+      writeLines(["1: 17xN(orange)"]);
+      writeLines(["1: 21xZ(red)"]);
+      writeLines(["1: 28xH(blue)"]);
+      writeLines(["1: 30xW(blue)"]);
+      writeLines(["2: 14xS(purple)"]);
+      writeLines(["2: 21xF(green)"]);
+      writeLines(["2: 29xE(purple)"]);
+      writeLines(["2: 30xB(red)"]);
+      writeLines(["3: 1xH(purple)"]);
+      writeLines(["3: 1xL(orange)"]);
+      writeLines(["3: 23xB(green)"]);
+      writeLines(["4: 16xB(red)"]);
+      writeLines(["4: 22xM(red)"]);
+      writeLines(["4: 34xL(blue)"]);
+      writeLines(["5: 6xF(blue)"]);
+      writeLines(["5: 25xP(orange)"]);
+      writeLines(["6: 22xX(red)"]);
+      writeLines(["7: 31xT(purple)", "<br>"]);
     break;
 
     case 'nobodywillacceptme':
