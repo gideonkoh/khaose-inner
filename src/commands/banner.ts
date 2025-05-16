@@ -18,7 +18,7 @@ const createBanner = () : string[] => {
   });  
   banner.push("<br>");
   banner.push("innerbackend-rmhvxfirgb.com")
-  banner.push("v36.0.0");
+  banner.push("v72.0.0");
   banner.push("<br>")
   banner.push("Welcome. You're currently at the inner layer.");
   banner.push("<br>")
