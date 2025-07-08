@@ -142,13 +142,13 @@ function commandHandler(input : string) {
 
     case 'letter':
       writeLines(["The letters are here:"]);
-      writeLines(["1/10:"]);
-      writeLines(["2/10:"]);
-      writeLines(["3/10:"]);
-      writeLines(["4/10:"]);
-      writeLines(["5/10:"]);
-      writeLines(["6/10:"]);
-      writeLines(["7/10:"]);
+      writeLines(["1/10: https://postimg.cc/qtGTzqFq"]);
+      writeLines(["2/10: https://postimg.cc/7Gsrncwy"]);
+      writeLines(["3/10: https://postimg.cc/R6Vzf9rR"]);
+      writeLines(["4/10: https://postimg.cc/fSVn2KRS"]);
+      writeLines(["5/10: https://postimg.cc/Dm0Tw2Pf"]);
+      writeLines(["6/10: https://postimg.cc/hhYqJH2L"]);
+      writeLines(["7/10: https://postimg.cc/gn6b3N7f"]);
       writeLines(["Embrace the letters and know yourself.", "<br>"]);
     break;
 
