@@ -142,13 +142,13 @@ function commandHandler(input : string) {
 
     case 'letter':
       writeLines(["The letters are here:"]);
-      writeLines(["1/10: https://postimg.cc/qtGTzqFq"]);
-      writeLines(["2/10: https://postimg.cc/7Gsrncwy"]);
-      writeLines(["3/10: https://postimg.cc/R6Vzf9rR"]);
-      writeLines(["4/10: https://postimg.cc/fSVn2KRS"]);
-      writeLines(["5/10: https://postimg.cc/Dm0Tw2Pf"]);
-      writeLines(["6/10: https://postimg.cc/hhYqJH2L"]);
-      writeLines(["7/10: https://postimg.cc/gn6b3N7f"]);
+      writeLines(["1/10: <a href='https://postimg.cc/qtGTzqFq'>https://postimg.cc/qtGTzqFq</a>"]);
+      writeLines(["2/10: <a href='https://postimg.cc/7Gsrncwy'>https://postimg.cc/7Gsrncwy</a>"]);
+      writeLines(["3/10: <a href='https://postimg.cc/R6Vzf9rR'>https://postimg.cc/R6Vzf9rR</a>"]);
+      writeLines(["4/10: <a href='https://postimg.cc/fSVn2KRS'>https://postimg.cc/fSVn2KRS</a>"]);
+      writeLines(["5/10: <a href='https://postimg.cc/Dm0Tw2Pf'>https://postimg.cc/Dm0Tw2Pf</a>"]);
+      writeLines(["6/10: <a href='https://postimg.cc/hhYqJH2L'>https://postimg.cc/hhYqJH2L</a>"]);
+      writeLines(["7/10: <a href='https://postimg.cc/gn6b3N7f'>https://postimg.cc/gn6b3N7f</a>"]);
       writeLines(["Embrace the letters and know yourself.", "<br>"]);
     break;
 
