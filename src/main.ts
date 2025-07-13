@@ -148,7 +148,7 @@ function commandHandler(input : string) {
       writeLines(["4/10: <a href='https://postimg.cc/fSVn2KRS'>https://postimg.cc/fSVn2KRS</a>"]);
       writeLines(["5/10: <a href='https://postimg.cc/Dm0Tw2Pf'>https://postimg.cc/Dm0Tw2Pf</a>"]);
       writeLines(["6/10: <a href='https://postimg.cc/hhYqJH2L'>https://postimg.cc/hhYqJH2L</a>"]);
-      writeLines(["7/10: <a href='https://postimg.cc/gn6b3N7f'>https://postimg.cc/gn6b3N7f</a>"]);
+      writeLines(["7/10: <a href='https://postimg.cc/V0YW23Rm'>https://postimg.cc/V0YW23Rm</a>"]);
       writeLines(["Embrace the letters and know yourself.", "<br>"]);
     break;
 
