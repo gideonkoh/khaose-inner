@@ -411,16 +411,22 @@ function commandHandler(input : string) {
       }, 500);
       break;
     case 'facebook':
-      //add stuff here
-      break;
-    case 'twitter':
-      //add stuff here
+      writeLines(["Opening up https://www.facebook.com/khaose.createsmusic/", "<br>"]);
+      setTimeout(() => {
+       window.open("https://www.facebook.com/khaose.createsmusic/", '_blank');
+      }, 500);
       break;
     case 'instagram':
-      //add stuff here
+      writeLines(["Opening up https://www.instagram.com/khaose.createsmusic", "<br>"]);
+      setTimeout(() => {
+       window.open("https://www.instagram.com/khaose.createsmusic", '_blank');
+      }, 500);
       break;
     case 'youtube':
-      //add stuff here
+      writeLines(["Opening up https://www.youtube.com/@khaose.createsmusic", "<br>"]);
+      setTimeout(() => {
+       window.open("https://www.youtube.com/@khaose.createsmusic", '_blank');
+      }, 500);
       break;
     case 'rm -rf':
       writeLines(["Such commands don't work here."]);
